@@ -1,0 +1,724 @@
+Archive member included because of file (symbol)
+
+p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3.o)
+                              gun_controller_uc.o (__addsf3)
+p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+                              p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3.o) (__addsf3x)
+p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+                              gun_controller_uc.o (__fixunssfsi)
+p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+                              gun_controller_uc.o (__floatunsisf)
+p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+                              p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_inf)
+p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+                              p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_nan)
+p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+                              p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_pscA)
+p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+                              p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_pscB)
+p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_round.o)
+                              p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3.o) (__fp_round)
+p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+                              p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_split3)
+p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+                              p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3x.o) (__fp_zero)
+p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+                              gun_controller_uc.o (__mulsf3)
+p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                              p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(mulsf3.o) (__mulsf3x)
+p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+                              p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o (exit)
+p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                              gun_controller_uc.o (__do_clear_bss)
+
+Allocating common symbols
+Common symbol       size              file
+
+buffer              0x40              gun_controller_uc.o
+data                0x28              gun_controller_uc.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+ .bss           0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+ .text          0x00000000        0x0 gun_controller_uc.o
+ .text          0x00000000        0x0 usb_serial.o
+ .text.usb_serial_putchar
+                0x00000000        0x0 usb_serial.o
+ .text.usb_serial_putchar_nowait
+                0x00000000        0x0 usb_serial.o
+ .text.usb_serial_flush_output
+                0x00000000        0x0 usb_serial.o
+ .text.usb_serial_get_baud
+                0x00000000        0x0 usb_serial.o
+ .text.usb_serial_get_stopbits
+                0x00000000        0x0 usb_serial.o
+ .text.usb_serial_get_paritytype
+                0x00000000        0x0 usb_serial.o
+ .text.usb_serial_get_numbits
+                0x00000000        0x0 usb_serial.o
+ .text.usb_serial_set_control
+                0x00000000        0x0 usb_serial.o
+ .text          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3.o)
+ .data          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3.o)
+ .text          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_round.o)
+ .data          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_round.o)
+ .text          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+LOAD gun_controller_uc.o
+LOAD usb_serial.o
+LOAD p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a
+LOAD p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a
+LOAD p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libc.a
+LOAD p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1546
+ *(.vectors)
+ .vectors       0x00000000       0x98 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table
+                0x00000098       0x82 usb_serial.o
+ *(.progmem*)
+ .progmem.data  0x0000011a       0xe5 usb_serial.o
+                0x00000200                . = ALIGN (0x2)
+ *fill*         0x000001ff        0x1 00
+                0x00000200                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000200        0x0 linker stubs
+ *(.trampolines*)
+                0x00000200                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000200                __ctors_start = .
+ *(.ctors)
+                0x00000200                __ctors_end = .
+                0x00000200                __dtors_start = .
+ *(.dtors)
+                0x00000200                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000200        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+                0x00000200                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000200        0xc p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000020c       0x1a p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+                0x0000020c                __do_copy_data
+ .init4         0x00000226       0x10 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                0x00000226                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000236        0x6 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+ *(.init9)
+ *(.text)
+ .text          0x0000023c        0x2 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+                0x0000023c                __vector_22
+                0x0000023c                __vector_28
+                0x0000023c                __vector_1
+                0x0000023c                __vector_32
+                0x0000023c                __vector_34
+                0x0000023c                __vector_24
+                0x0000023c                __vector_12
+                0x0000023c                __bad_interrupt
+                0x0000023c                __vector_6
+                0x0000023c                __vector_31
+                0x0000023c                __vector_35
+                0x0000023c                __vector_3
+                0x0000023c                __vector_23
+                0x0000023c                __vector_30
+                0x0000023c                __vector_25
+                0x0000023c                __vector_13
+                0x0000023c                __vector_17
+                0x0000023c                __vector_19
+                0x0000023c                __vector_7
+                0x0000023c                __vector_27
+                0x0000023c                __vector_5
+                0x0000023c                __vector_33
+                0x0000023c                __vector_37
+                0x0000023c                __vector_4
+                0x0000023c                __vector_9
+                0x0000023c                __vector_2
+                0x0000023c                __vector_21
+                0x0000023c                __vector_15
+                0x0000023c                __vector_36
+                0x0000023c                __vector_8
+                0x0000023c                __vector_26
+                0x0000023c                __vector_14
+                0x0000023c                __vector_16
+                0x0000023c                __vector_18
+                0x0000023c                __vector_20
+                0x0000023e                . = ALIGN (0x2)
+ *(.text.*)
+ .text.packData
+                0x0000023e      0x1b4 gun_controller_uc.o
+                0x0000023e                packData
+ .text.read_buttons
+                0x000003f2      0x192 gun_controller_uc.o
+                0x000003f2                read_buttons
+ .text.__vector_29
+                0x00000584      0x502 gun_controller_uc.o
+                0x00000584                __vector_29
+ .text.setupHardware
+                0x00000a86       0x4e gun_controller_uc.o
+                0x00000a86                setupHardware
+ .text.main     0x00000ad4       0xe2 gun_controller_uc.o
+                0x00000ad4                main
+ .text.usb_init
+                0x00000bb6       0x32 usb_serial.o
+                0x00000bb6                usb_init
+ .text.usb_configured
+                0x00000be8        0x6 usb_serial.o
+                0x00000be8                usb_configured
+ .text.usb_serial_getchar
+                0x00000bee       0x4a usb_serial.o
+                0x00000bee                usb_serial_getchar
+ .text.usb_serial_available
+                0x00000c38       0x36 usb_serial.o
+                0x00000c38                usb_serial_available
+ .text.usb_serial_flush_input
+                0x00000c6e       0x26 usb_serial.o
+                0x00000c6e                usb_serial_flush_input
+ .text.usb_serial_write
+                0x00000c94      0x250 usb_serial.o
+                0x00000c94                usb_serial_write
+ .text.usb_serial_get_control
+                0x00000ee4        0x6 usb_serial.o
+                0x00000ee4                usb_serial_get_control
+ .text.__vector_10
+                0x00000eea       0x76 usb_serial.o
+                0x00000eea                __vector_10
+ .text.__vector_11
+                0x00000f60      0x2de usb_serial.o
+                0x00000f60                __vector_11
+ .text.avr-libc.fplib
+                0x0000123e        0xa p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3.o)
+                0x0000123e                __subsf3
+                0x00001240                __addsf3
+ .text.avr-libc.fplib
+                0x00001248       0xc0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+                0x00001262                __addsf3x
+ .text.avr-libc.fplib
+                0x00001308       0x58 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+                0x00001308                __fixunssfsi
+ .text.avr-libc.fplib
+                0x00001360       0x7a p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+                0x00001364                __floatsisf
+                0x00001360                __floatunsisf
+ .text.avr-libc.fplib
+                0x000013da        0xc p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+                0x000013da                __fp_inf
+ .text.avr-libc.fplib
+                0x000013e6        0x6 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+                0x000013e6                __fp_nan
+ .text.avr-libc.fplib
+                0x000013ec        0xe p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+                0x000013ec                __fp_pscA
+ .text.avr-libc.fplib
+                0x000013fa        0xe p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+                0x000013fa                __fp_pscB
+ .text.avr-libc.fplib
+                0x00001408       0x22 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_round.o)
+                0x00001408                __fp_round
+ .text.avr-libc.fplib
+                0x0000142a       0x44 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+                0x0000142a                __fp_split3
+                0x0000143a                __fp_splitA
+ .text.avr-libc.fplib
+                0x0000146e        0xe p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+                0x0000146e                __fp_zero
+                0x00001470                __fp_szero
+ .text.avr-libc.fplib
+                0x0000147c        0x4 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+                0x0000147c                __mulsf3
+ .text.avr-libc.fplib
+                0x00001480       0xc2 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                0x00001498                __mulsf3_pse
+                0x00001494                __mulsf3x
+                0x00001542                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00001542        0x0 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+                0x00001542                exit
+                0x00001542                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001542        0x4 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001546                _etext = .
+
+.data           0x00800100       0x10 load address 0x00001546
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100        0x8 gun_controller_uc.o
+                0x00800104                digital_e
+                0x00800100                digital_a
+                0x00800102                digital_c
+                0x00800107                digital_h
+                0x00800106                digital_g
+                0x00800101                digital_b
+                0x00800105                digital_f
+                0x00800103                digital_d
+ .data          0x00800108        0x7 usb_serial.o
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00800110                . = ALIGN (0x2)
+ *fill*         0x0080010f        0x1 00
+                0x00800110                _edata = .
+                0x00800110                PROVIDE (__data_end, .)
+
+.bss            0x00800110       0x8e
+                0x00800110                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800110       0x22 gun_controller_uc.o
+                0x00800110                conversion_status
+                0x00800111                thumb_count
+ .bss           0x00800132        0x4 usb_serial.o
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x00800136       0x68 gun_controller_uc.o
+                0x00800136                buffer
+                0x00800176                data
+                0x0080019e                PROVIDE (__bss_end, .)
+                0x00001546                __data_load_start = LOADADDR (.data)
+                0x00001556                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0080019e        0x0
+                0x0080019e                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0080019e                PROVIDE (__noinit_end, .)
+                0x0080019e                _end = .
+                0x0080019e                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0xe0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x40 gun_controller_uc.o
+ .debug_aranges
+                0x00000040       0xa0 usb_serial.o
+
+.debug_pubnames
+                0x00000000      0x2ab
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000      0x105 gun_controller_uc.o
+ .debug_pubnames
+                0x00000105      0x1a6 usb_serial.o
+
+.debug_info     0x00000000      0xdab
+ *(.debug_info)
+ .debug_info    0x00000000      0x506 gun_controller_uc.o
+ .debug_info    0x00000506      0x8a5 usb_serial.o
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0x370
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x197 gun_controller_uc.o
+ .debug_abbrev  0x00000197      0x1d9 usb_serial.o
+
+.debug_line     0x00000000     0x1262
+ *(.debug_line)
+ .debug_line    0x00000000      0x684 gun_controller_uc.o
+ .debug_line    0x00000684      0xbde usb_serial.o
+
+.debug_frame    0x00000000      0x180
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x60 gun_controller_uc.o
+ .debug_frame   0x00000060      0x120 usb_serial.o
+
+.debug_str      0x00000000      0x5c4
+ *(.debug_str)
+ .debug_str     0x00000000      0x275 gun_controller_uc.o
+                                0x2a9 (size before relaxing)
+ .debug_str     0x00000275      0x34f usb_serial.o
+                                0x42d (size before relaxing)
+
+.debug_loc      0x00000000      0xada
+ *(.debug_loc)
+ .debug_loc     0x00000000       0x4f gun_controller_uc.o
+ .debug_loc     0x0000004f      0xa8b usb_serial.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(gun_controller_uc.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0xe8
+ .debug_ranges  0x00000000       0x38 gun_controller_uc.o
+ .debug_ranges  0x00000038       0xb0 usb_serial.o
+
+Cross Reference Table
+
+Symbol                                            File
+__addsf3                                          p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3.o)
+                                                  gun_controller_uc.o
+__addsf3x                                         p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+                                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3.o)
+__bad_interrupt                                   p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__bss_end                                         p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+__bss_start                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+__data_end                                        p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__data_load_start                                 p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__data_start                                      p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__do_clear_bss                                    p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_clear_bss.o)
+                                                  usb_serial.o
+                                                  gun_controller_uc.o
+__do_copy_data                                    p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+                                                  usb_serial.o
+                                                  gun_controller_uc.o
+__fixunssfsi                                      p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+                                                  gun_controller_uc.o
+__floatsisf                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+                                                  gun_controller_uc.o
+__floatunsisf                                     p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(floatsisf.o)
+                                                  gun_controller_uc.o
+__fp_inf                                          p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_inf.o)
+                                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+__fp_nan                                          p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_nan.o)
+                                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+__fp_pscA                                         p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_pscA.o)
+                                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+__fp_pscB                                         p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_pscB.o)
+                                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+__fp_round                                        p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_round.o)
+                                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+                                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3.o)
+__fp_split3                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+                                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+__fp_splitA                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_split3.o)
+                                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+__fp_szero                                        p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+                                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+__fp_zero                                         p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fp_zero.o)
+                                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(fixunssfsi.o)
+                                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3x.o)
+__heap_end                                        p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__init                                            p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__mulsf3                                          p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+                                                  gun_controller_uc.o
+__mulsf3_pse                                      p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+__mulsf3x                                         p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(mulsf3x.o)
+                                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(mulsf3.o)
+__stack                                           p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__subsf3                                          p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51\libm.a(addsf3.o)
+__vector_1                                        p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_10                                       usb_serial.o
+                                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_11                                       usb_serial.o
+                                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_12                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_13                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_14                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_15                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_16                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_17                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_18                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_19                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_2                                        p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_20                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_21                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_22                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_23                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_24                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_25                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_26                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_27                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_28                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_29                                       gun_controller_uc.o
+                                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_3                                        p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_30                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_31                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_32                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_33                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_34                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_35                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_36                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_37                                       p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_4                                        p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_5                                        p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_6                                        p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_7                                        p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_8                                        p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_9                                        p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vector_default                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+__vectors                                         p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+_exit                                             p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+buffer                                            gun_controller_uc.o
+conversion_status                                 gun_controller_uc.o
+data                                              gun_controller_uc.o
+digital_a                                         gun_controller_uc.o
+digital_b                                         gun_controller_uc.o
+digital_c                                         gun_controller_uc.o
+digital_d                                         gun_controller_uc.o
+digital_e                                         gun_controller_uc.o
+digital_f                                         gun_controller_uc.o
+digital_g                                         gun_controller_uc.o
+digital_h                                         gun_controller_uc.o
+exit                                              p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/avr51\libgcc.a(_exit.o)
+                                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+main                                              gun_controller_uc.o
+                                                  p:/winavr-20100110/bin/../lib/gcc/avr/4.3.3/../../../../avr/lib/avr51/crtusb1286.o
+packData                                          gun_controller_uc.o
+read_buttons                                      gun_controller_uc.o
+setupHardware                                     gun_controller_uc.o
+thumb_count                                       gun_controller_uc.o
+usb_configured                                    usb_serial.o
+                                                  gun_controller_uc.o
+usb_init                                          usb_serial.o
+                                                  gun_controller_uc.o
+usb_serial_available                              usb_serial.o
+                                                  gun_controller_uc.o
+usb_serial_flush_input                            usb_serial.o
+                                                  gun_controller_uc.o
+usb_serial_flush_output                           usb_serial.o
+usb_serial_get_baud                               usb_serial.o
+usb_serial_get_control                            usb_serial.o
+                                                  gun_controller_uc.o
+usb_serial_get_numbits                            usb_serial.o
+usb_serial_get_paritytype                         usb_serial.o
+usb_serial_get_stopbits                           usb_serial.o
+usb_serial_getchar                                usb_serial.o
+                                                  gun_controller_uc.o
+usb_serial_putchar                                usb_serial.o
+usb_serial_putchar_nowait                         usb_serial.o
+usb_serial_set_control                            usb_serial.o
+usb_serial_write                                  usb_serial.o
+                                                  gun_controller_uc.o
